@@ -1,0 +1,55 @@
+.main{
+    width: 100%;
+    height: 373px;
+    background: #F9FAFF;
+    position: relative;
+    top: 100px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+.headername{
+    display: flex;
+  align-items: center;
+    margin-top: 50px;
+    width: 100%;
+    height: 60px;
+    justify-content: center;
+    flex-direction: column;
+ 
+}
+.headername div{
+    width: fit-content;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 30px;
+    line-height: 36px;
+
+}
+.headername img{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.ourClientswiper{
+  width: 100% !important;
+  height: 192px !important;
+  background-color: #F9FAFF;
+}
+
+.ourClientswiperslide{
+  height: 100px;
+  min-width: 10px;
+ border-radius: 10px;
+ background-color: #F9FAFF;
+ display: flex !important;
+ justify-content: center;
+ align-items: center;
+}
+
+.images{
+  height: 43px;
+  width: 86px;
+}
+
+
